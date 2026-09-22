@@ -25,3 +25,6 @@ Przydział zadań Etapu 1:
 Olaf Kusiak - Przygotowanie struktury GitHub, Przygotowanie zadań w Microsoft Planner, Projekt przepływu danych między bazą danych i UI.
 Mateusz Olbrzymek - Projekt makiet paneli logowania, głównego, rezerwacji, oraz nawigacji między nimi.
 Kacper Tokarczyk - Projekt tabeli bazy danych i relacji między nimi, przygotowanie wstępnych skryptów. 
+
+
+<img width="580" height="682" alt="image" src="https://github.com/user-attachments/assets/bdb739ab-d9bc-44c8-b3dd-97a4d12d33e6" />
